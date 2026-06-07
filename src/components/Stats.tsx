@@ -1,5 +1,19 @@
 import React from "react";
 import { Award, Briefcase, Globe, Users } from "lucide-react";
+import client1 from "../assets/clients/client1.webp";
+import client2 from "../assets/clients/client2.webp";
+import client3 from "../assets/clients/client3.webp";
+import client4 from "../assets/clients/client4.webp";
+import client5 from "../assets/clients/client5.webp";
+import client6 from "../assets/clients/client6.webp";
+import client7 from "../assets/clients/client7.webp";
+import client8 from "../assets/clients/client8.webp";
+import client9 from "../assets/clients/client9.webp";
+import client10 from "../assets/clients/client10.webp";
+import client11 from "../assets/clients/client11.webp";
+import client12 from "../assets/clients/client12.webp";
+import client13 from "../assets/clients/client13.webp";
+import client14 from "../assets/clients/client14.webp";
 
 export default function Stats() {
   const stats = [
@@ -30,20 +44,20 @@ export default function Stats() {
   ];
 
   const clientLogos = [
-    "/src/assets/clients/client1.webp",
-    "/src/assets/clients/client2.webp",
-    "/src/assets/clients/client3.webp",
-    "/src/assets/clients/client4.webp",
-    "/src/assets/clients/client5.webp",
-    "/src/assets/clients/client6.webp",
-    "/src/assets/clients/client7.webp",
-    "/src/assets/clients/client8.webp",
-    "/src/assets/clients/client9.webp",
-    "/src/assets/clients/client10.webp",
-    "/src/assets/clients/client11.webp",
-    "/src/assets/clients/client12.webp",
-    "/src/assets/clients/client13.webp",
-    "/src/assets/clients/client14.webp",
+    client1,
+    client2,
+    client3,
+    client4,
+    client5,
+    client6,
+    client7,
+    client8,
+    client9,
+    client10,
+    client11,
+    client12,
+    client13,
+    client14,
   ];
 
   return (
