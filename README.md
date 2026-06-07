@@ -1,6 +1,10 @@
 # Tescra Corporate Redesign & Enhancement Project
 
-This repository contains a modern, optimized, and fully redesigned version of the Tescra corporate website `www.tescra.com` .
+This repository contains a modern, optimized, and fully redesigned version of the Tescra corporate website.
+
+*   **Original Website**: [http://www.tescra.com/](http://www.tescra.com/)
+*   **Redesign Hosted URL**: [https://tescra-redesign.netlify.app/](https://tescra-redesign.netlify.app/)
+*   **GitHub Repository**: [https://github.com/syworld7/tescra](https://github.com/syworld7/tescra)
 
 ---
 
